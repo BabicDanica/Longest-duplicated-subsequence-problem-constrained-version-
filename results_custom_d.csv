@@ -1,7 +1,0 @@
-Instance,Greedy Basic,Greedy Advanced,VNS Basic,VNS Advanced,Hybrid Advanced
-test1,,ABD (2),ABD (2),ABD (2),ABD (2)
-test2,,ABAB (2),ABAB (2),ABAB (2),ABAB (2)
-test3,,ACBD (2),,ACBD (2),ACBD (2)
-test4,,ABCD (3),ABCD (3),ABCD (3),ABCD (3)
-test5,,ABDC (3),ABCD (2),ABDC (3),ABDC (3)
-test6,,ABCD (4),ABCD (4),ABCD (4),ABCD (4)
